@@ -1,0 +1,106 @@
+ table{
+    text-align: center;
+    width: 80%;
+    margin: 50px auto;
+    background-color: rgb(229, 224, 224);
+    border-spacing: 1px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+.th{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.tb td{
+    padding: 10px;
+    border: 1px solid white;
+}
+.view{
+    background-color: rgb(0, 162, 255);
+    color: white;
+}
+.delet{
+    background-color: rgb(255, 0, 93);
+    color: white;
+}
+/*task_2*/
+.list{
+    border: 1px solid white;
+    width: 25%;
+    margin: 30px auto;
+    text-align: left;
+    list-style-type:decimal;
+    text-transform: capitalize;
+    font-weight: 600;
+    list-style-type: decimal;
+    background-color: rgba(229, 224, 224, 0.516);
+    list-style-position: outside;
+    
+}
+li{
+    border: 1px solid white;
+    margin-bottom: 8px;
+    background-color: white;
+    width:93%;
+    padding: 3px;
+
+}
+ul{
+    list-style-position: inside;
+    list-style-type: circle;
+}
+/*task_3*/
+.task3{
+    border: 1px solid rgb(229, 224, 224);
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: rgb(229, 224, 224);
+    font-weight: 600;
+}
+.full{
+    justify-content: space-between;
+    border: 1px solid rgb(229, 224, 224);
+    background-color: rgb(187, 187, 187);
+    margin: 3px 20px;
+}
+.one .P1{
+    background-color: rgb(187, 187, 187);
+    border: 1px solid rgb(229, 224, 224);
+    width:18%;
+    margin-left: 70px;
+    float: left;
+    padding: 7px;
+}
+.second .P2{
+    background-color: rgb(187, 187, 187);
+    border: 1px solid rgb(229, 224, 224);
+    margin-left: 80px;
+    float: left;
+    width:32%;
+    padding: 8px;
+}
+
+
+.third{
+   border-radius: 3px;
+   display: flex;
+   clear: both;
+}
+.third div{
+    width: 20%;
+    margin:  5px auto;
+    padding: 5px;
+    background-color: rgb(187, 187, 187);
+
+}
+
+
+
+
+
+
+
+
